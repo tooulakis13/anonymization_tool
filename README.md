@@ -28,7 +28,8 @@ The tool implements three fundamental privacy-preserving techniques: k-anonymity
 Install the dependencies using:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ## Run
 
